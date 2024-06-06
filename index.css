@@ -1,0 +1,26 @@
+body {
+   background-color: pink;
+   
+}
+h1{
+    font-family: embed-code;
+    font-size: 150px;
+    color: pink;
+    text-align: center;
+}
+p{
+   color: azure; 
+   font-size: 20px;
+   text-align: center
+}
+div{
+    background-color: ;
+    height: 200px;
+}
+img {
+    width: 300px;
+    align-items: end;
+}
+.bottom {
+    align-items: start;
+}

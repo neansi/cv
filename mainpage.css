@@ -1,0 +1,22 @@
+li {
+  font-size: 40px;  
+}
+
+hr {
+border-radius: 50px;
+border-width: 50px;
+}
+h2 {
+    font-size: 60px;
+}
+.last {
+border-radius: 0;
+width: 100000px;
+}
+body {
+text-align: center;
+
+}
+li {
+    align-items: center;
+}
